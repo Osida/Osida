@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Osida
+<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Osida -->
+Hi 👋 My name is Osida 
 =============================================================================================================================
 
 * 🌍 I'm based in Maryland
@@ -7,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🤝 I’m looking for help with beginning my career as a software engineer
 * 🌱 I’m currently learning more about frontend development
 * 💬 Ask me about React or any tech-related topics
-* ⚡ Fun fact I am a huge comic book fan
+* ⚡ I'm a huge comic book fan ... but dont tell anyone 🤫
 * 👨‍💻 Read more about my projects at [my portfolio](https://osida-richards-portfolio.vercel.app/)
 
 
