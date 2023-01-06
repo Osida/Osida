@@ -1,5 +1,5 @@
 # 💫 About Me:
-👤Pronouns He/Him<br>🔭 I’m currently working on building a strong dev portfolio<br>🤝 I’m looking for help with beginning my career as a software engineer<br>🌱 I’m currently learning more about frontend development<br>💬 Ask me about React or any tech-related topics<br>⚡ Fun fact I am a huge comic book fan<br>📫 How to reach me: [LinkedIn](www.linkedin.com/in/osida-richards)<br>👨‍💻  Read more about my projects at [my portfolio](https://osida-richards-portfolio.vercel.app/)
+👤Pronouns He/Him<br>🔭 I’m currently working on building a strong dev portfolio<br>🤝 I’m looking for help with beginning my career as a software engineer<br>🌱 I’m currently learning more about frontend development<br>💬 Ask me about React or any tech-related topics<br>⚡ Fun fact I am a huge comic book fan<br>📫 How to reach me: <a href="www.linkedin.com/in/osida-richards" target="_blank">LinkedIn</a> <br>👨‍💻  Read more about my projects at [my portfolio](https://osida-richards-portfolio.vercel.app/)
 
 
 ## 🌐 Socials:
