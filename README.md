@@ -19,6 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://user-images.githubusercontent.com/51928654/211057843-00edcad6-0f27-4802-9191-39feddec07cb.png" width="312px"/>
+<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
