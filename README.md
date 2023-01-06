@@ -1,5 +1,14 @@
-# 💫 About Me:
-👤Pronouns He/Him<br>🔭 I’m currently working on building a strong dev portfolio<br>🤝 I’m looking for help with beginning my career as a software engineer<br>🌱 I’m currently learning more about frontend development<br>💬 Ask me about React or any tech-related topics<br>⚡ Fun fact I am a huge comic book fan<br>👨‍💻  Read more about my projects at [my portfolio](https://osida-richards-portfolio.vercel.app/)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Osida
+=============================================================================================================================
+
+* 🌍 I'm based in Maryland
+* 👤 Pronouns He/Him
+* 🔭 I’m currently working on building a strong dev portfolio
+* 🤝 I’m looking for help with beginning my career as a software engineer
+* 🌱 I’m currently learning more about frontend development
+* 💬 Ask me about React or any tech-related topics
+* ⚡ Fun fact I am a huge comic book fan
+* 👨‍💻 Read more about my projects at [my portfolio](https://osida-richards-portfolio.vercel.app/)
 
 
 ## 🌐 Socials:
