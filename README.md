@@ -2,7 +2,6 @@
 Hi 👋 My name is Osida 
 =============================================================================================================================
 
-* 🌍 I'm based in Maryland
 * 👤 Pronouns He/Him
 * 🔭 I’m currently working on building a strong dev portfolio
 * 🤝 I’m looking for help with beginning my career as a software engineer
