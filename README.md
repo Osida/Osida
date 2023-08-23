@@ -8,7 +8,7 @@ Hi 👋 My name is Osida
 * 🌱 I’m currently learning more about frontend development
 * 💬 Ask me about React or any tech-related topics
 * ⚡ I'm a huge comic book fan ... but dont tell anyone 🤫
-* 👨‍💻 Read more about my projects at [my portfolio](https://osida-richards-portfolio.vercel.app/)
+* 👨‍💻 Read more about my projects at [my portfolio](https://osida.vercel.app/)
 
 
 ## 🌐 Socials:
